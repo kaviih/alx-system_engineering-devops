@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'ls -lt | head'
+cat /etc/passwd
